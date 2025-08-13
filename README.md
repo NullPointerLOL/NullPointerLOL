@@ -32,12 +32,12 @@
 
 ## 📊 Statistiques GitHub  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NullPointerLOL&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NullPointerLOL&show_icons=true&theme=tokyonight&hide_border=true&refresh=true" height="150" />
   
 </p>  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NullPointerLOL&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NullPointerLOL&layout=compact&theme=tokyonight&hide_border=true&refresh=true" />
 </p>
 
 ---
@@ -53,7 +53,8 @@
 ---
 
 ## 📌 Projets épinglés  
-- **[Outilsreseau](https://outilsreseau.com/)** – Analyse et optimisation réseau (React + Vite)   
+- **[Outilsreseau](https://outilsreseau.com/)** – Analyse et optimisation réseau (React + Vite)
+- **[Rouge Gagne Noir Perd](https://rougegagnenoirperd.netlify.app/)**  - Jeu de Hasard populaire au Bénin et dans la sous région 
 
 ---
 
