@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠️ Compétences techniques  
+## 🛠️ Compétences techniques  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-red?logo=java&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-C++-blue?logo=cplusplus&logoColor=white&style=for-the-badge" />
