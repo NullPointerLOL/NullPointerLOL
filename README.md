@@ -1,5 +1,5 @@
 <!-- BANNIÈRE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:00CFFF&height=200&section=header&text=Cyrille%20Adjalala&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:00CFFF&height=200&section=header&text=Cyrille%20ADJALALA&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 # 👋 Salut, moi c'est Cyrille ADJALALA
 
@@ -13,7 +13,7 @@
 🔧 Outils pratiques pour **analyse réseau** & **optimisation des performances**.  
 🎯 Objectif : fusionner intelligence artificielle et savoir-faire humain.  
 
-<!-- Remplacer par vrai screenshot -->
+
 <img width="1903" height="969" alt="image" src="https://github.com/user-attachments/assets/29b90b78-504b-4d8c-89a0-b9bb4be09f67" />
 
 ---
