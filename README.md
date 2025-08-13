@@ -59,7 +59,8 @@
 
 ## ✨ À propos de moi  
 - 🎓 Étudiant en **deuxième année de Génie Logociel à EIG BENIN**  
-- 🧠 Passionné par **l'IA**, le développement logiciel et le marketing stratégique  
+- 🧠 Passionné par **l'IA**, le développement logiciel et le marketing stratégique
+- 🎓 Licence en **Linguistique Anglaise**
 - 🎯 Objectif : devenir **expert full-stack** et **entrepreneur tech**  
 - 🛠️ Philosophie : *"Coder intelligemment, améliorer continuellement"*  
 
