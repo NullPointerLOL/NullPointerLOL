@@ -1,4 +1,4 @@
-<!-- BANNIÈRE -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:00CFFF&height=200&section=header&text=Cyrille%20ADJALALA&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 # Salut, moi c'est Cyrille ADJALALA
